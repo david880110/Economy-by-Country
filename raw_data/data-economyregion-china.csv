@@ -1,0 +1,35 @@
+﻿Provinces,Region,Economic Zone #,Economic Zone,经济区,Characteristic
+Liaoning,Northeast Comprehensive,1,Northeast Comprehensive,东北综合经济区,"Heavy industry, Energy raw materials, Agricultural products: Corn, soybeans and beets"
+Heilongjiang,Northeast Comprehensive,1,Northeast Comprehensive,东北综合经济区,"Heavy industry, Energy raw materials, Agricultural products: Corn, soybeans and beets"
+Jilin,Northeast Comprehensive,1,Northeast Comprehensive,东北综合经济区,"Heavy industry, Energy raw materials, Agricultural products: Corn, soybeans and beets"
+Shandong,East,2,North Coast,北部沿海综合经济区,High-tech R & D and manufacturing
+Beijing,East,2,North Coast,北部沿海综合经济区,High-tech R & D and manufacturing
+Hebei,East,2,North Coast,北部沿海综合经济区,High-tech R & D and manufacturing
+Tianjin,East,2,North Coast,北部沿海综合经济区,High-tech R & D and manufacturing
+Jiangsu,East,3,East Coast,东部沿海综合经济区,Multifunctional manufacturing: Light industrial equipment products
+Zhejiang,East,3,East Coast,东部沿海综合经济区,Multifunctional manufacturing: Light industrial equipment products
+Shanghai,East,3,East Coast,东部沿海综合经济区,Multifunctional manufacturing: Light industrial equipment products
+Guangdong,East,4,Southeast Coast,东南沿海经济区,"Export-oriented, digesting foreign advanced technology, high-end consumer goods, high-tech product manufacturing"
+Fujian,East,4,Southeast Coast,东南沿海经济区,"Export-oriented, digesting foreign advanced technology, high-end consumer goods, high-tech product manufacturing"
+Hainan,East,4,Southeast Coast,东南沿海经济区,"Export-oriented, digesting foreign advanced technology, high-end consumer goods, high-tech product manufacturing"
+Gansu,West,5,Yellow River Upper and Middle Reaches,黄河上中游经济区,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry"
+Ningxia,West,5,Yellow River Upper and Middle Reaches,黄河上中游经济区,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry"
+Henan,Middle,5,Yellow River Upper and Middle Reaches,黄河上中游经济区,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry"
+Shanxi,Middle,5,Yellow River Upper and Middle Reaches,黄河上中游经济区,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry"
+Shaanxi,West,5,Yellow River Upper and Middle Reaches,黄河上中游经济区,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry"
+Sichuan,West,6,Yangtze River Upper and Middle Reaches,长江上中游经济区,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry"
+Chongqing,West,6,Yangtze River Upper and Middle Reaches,长江上中游经济区,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry"
+Hubei,Middle,6,Yangtze River Upper and Middle Reaches,长江上中游经济区,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry"
+Hunan,Middle,6,Yangtze River Upper and Middle Reaches,长江上中游经济区,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry"
+Anhui,Middle,6,Yangtze River Upper and Middle Reaches,长江上中游经济区,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry"
+Jiangxi,Middle,6,Yangtze River Upper and Middle Reaches,长江上中游经济区,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry"
+Yunnan,West,7,Pearl River Upper Midstream,珠江上中游经济区,"Chinese herbal medicine and biological products, tourism"
+Guangxi,West,7,Pearl River Upper Midstream,珠江上中游经济区,"Chinese herbal medicine and biological products, tourism"
+Guizhou,West,7,Pearl River Upper Midstream,珠江上中游经济区,"Chinese herbal medicine and biological products, tourism"
+Inner Mongolia,West,8,Inner Mongolia,内蒙古经济区,"Energy sources such as coal, natural gas and hydropower, natural grassland resources, sand industry"
+Xinjiang,West,9,Xinjiang,新疆经济区,"Cotton, oasis agriculture, fruits, tomatoes, wine brewing, fruit processing industry and textile industry, oil and gas resources, sand industry base"
+Qinghai,West,10,Qinghai-Tibet Plateau,青藏高原经济区,"Natural gas, salt lake resources, non-ferrous metal mining and development, modern grassland animal husbandry, fence animal husbandry, and tourism with unique ethnic customs."
+Tibet,West,10,Qinghai-Tibet Plateau,青藏高原经济区,"Natural gas, salt lake resources, non-ferrous metal mining and development, modern grassland animal husbandry, fence animal husbandry, and tourism with unique ethnic customs."
+Hong Kong,Hong Kong,11,Hong Kong,香港特别行政区,"Trade and logistics industry (21.2%), financial services (19.7%), professional and industrial and commercial support services (12.0%), and tourism (4.5%)"
+Macau,Macau,12,Macau,澳门港特别行政区,Tourism and apparel industry (41%)
+Taiwan,Taiwan,13,Taiwan,台澎金马个别关税领域,Agricultural products and OEM

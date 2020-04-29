@@ -1,86 +1,86 @@
-,index,Year,Country,Administrative Division,Nominal GDP (Billion),Population,GDP per Capita
-0,0,2019,China,Guangdong,1561.0,111690000,13976.0
-1,1,2019,China,Jiangsu,1444.0,80290000,17985.0
-2,2,2019,China,Shandong,1030.0,100060000,10294.0
-3,3,2019,China,Zhejiang,904.0,56570000,15980.0
-4,4,2019,China,Henan,787.0,95590000,8233.0
-5,5,2019,China,Sichuan,676.0,83020000,8143.0
-6,6,2019,China,Hubei,664.0,59020000,11250.0
-7,7,2019,China,Fujian,615.0,39110000,15725.0
-8,8,2019,China,Hunan,576.0,68600000,8397.0
-9,9,2019,China,Shanghai,553.0,24180000,22870.0
-10,10,2019,China,Anhui,538.0,62550000,8601.0
-11,11,2019,China,Beijing,513.0,21710000,23630.0
-12,12,2019,China,Hebei,509.0,75200000,6769.0
-13,13,2019,China,Shaanxi,374.0,38350000,9752.0
-14,14,2019,China,Liaoning,361.0,43690000,8263.0
-15,15,2019,China,Jiangxi,359.0,46220000,7767.0
-16,16,2019,China,Chongqing,342.0,30750000,11122.0
-17,17,2019,China,Yunnan,337.0,48010000,7019.0
-18,18,2019,China,Guangxi,308.0,48850000,6305.0
-19,19,2019,China,Inner Mongolia,250.0,25290000,9885.0
-20,20,2019,China,Shanxi,247.0,36820000,6708.0
-21,21,2019,China,Guizhou,243.0,35550000,6835.0
-22,22,2019,China,Tianjin,204.0,15570000,13102.0
-23,23,2019,China,Heilongjiang,197.0,37890000,5199.0
-24,24,2019,China,Xinjiang,197.0,24450000,8057.0
-25,25,2019,China,Jilin,170.0,27170000,6257.0
-26,26,2019,China,Gansu,126.0,26260000,4798.0
-27,27,2019,China,Hainan,77.0,9170000,8397.0
-28,28,2019,China,Ningxia,54.0,6820000,7918.0
-29,29,2019,China,Qinghai,43.0,5980000,7191.0
-30,30,2019,China,Tibet,25.0,3370000,7418.0
-31,31,2019,China,Hong Kong,372.989,7335384,
-32,32,2019,China,Macau,55.136,644900,
-33,33,2019,China,Taiwan,586.104,23562318,
-34,0,2019,United States,Connecticut,1142561.0,3565287,320468170.0
-35,1,2019,United States,Maine,270074.0,1344212,200916225.0
-36,2,2019,United States,Massachusetts,2382235.0,6949503,342792139.0
-37,3,2019,United States,New Hampshire,354379.0,1359711,260628178.0
-38,4,2019,United States,Rhode Island,254164.0,1059361,239921991.0
-39,5,2019,United States,Vermont,139140.0,623989,222984700.0
-40,6,2019,United States,Delaware,301661.0,973764,309788614.0
-41,7,2019,United States,District of Columbia,584778.0,705749,828592035.0
-42,8,2019,United States,Maryland,1713354.0,6045680,283401371.0
-43,9,2019,United States,New Jersey,2579366.0,8882190,290397526.0
-44,10,2019,United States,New York,6927642.0,19453561,356111768.0
-45,11,2019,United States,Pennsylvania,3254054.0,12801989,254183471.0
-46,12,2019,United States,Illinois,3588495.0,12671821,283187002.0
-47,13,2019,United States,Indiana,1508418.0,6732219,224059556.0
-48,14,2019,United States,Michigan,2166203.0,9986857,216905379.0
-49,15,2019,United States,Ohio,2793832.0,11689100,239011729.0
-50,16,2019,United States,Wisconsin,1389224.0,5822434,238598497.0
-51,17,2019,United States,Iowa,779154.0,3155070,246952999.0
-52,18,2019,United States,Kansas,692569.0,2913314,237725491.0
-53,19,2019,United States,Minnesota,1523420.0,5639632,270127554.0
-54,20,2019,United States,Missouri,1328328.0,6137428,216430726.0
-55,21,2019,United States,Nebraska,508147.0,1934408,262688637.0
-56,22,2019,United States,North Dakota,228146.0,762062,299379840.0
-57,23,2019,United States,South Dakota,213223.0,884659,241022812.0
-58,24,2019,United States,Alabama,923873.0,4903185,188423035.0
-59,25,2019,United States,Arkansas,532723.0,3017825,176525478.0
-60,26,2019,United States,Florida,4373403.0,21477737,203624944.0
-61,27,2019,United States,Georgia,2465333.0,10617423,232196928.0
-62,28,2019,United States,Kentucky,858686.0,4467673,192199832.0
-63,29,2019,United States,Louisiana,1055426.0,4648794,227032215.0
-64,30,2019,United States,Mississippi,475119.0,2976149,159642209.0
-65,31,2019,United States,North Carolina,2350844.0,10488084,224144276.0
-66,32,2019,United States,South Carolina,985236.0,5148714,191355744.0
-67,33,2019,United States,Tennessee,1520551.0,6833174,222524847.0
-68,34,2019,United States,Virginia,2216845.0,8535519,259720001.0
-69,35,2019,United States,West Virginia,312758.0,1792147,174515818.0
-70,36,2019,United States,Arizona,1464760.0,7278717,201238762.0
-71,37,2019,United States,New Mexico,416005.0,2096829,198397199.0
-72,38,2019,United States,Oklahoma,824232.0,3956971,208298721.0
-73,39,2019,United States,Texas,7547824.0,28995881,260306766.0
-74,40,2019,United States,Colorado,1561136.0,5758736,271090045.0
-75,41,2019,United States,Idaho,323644.0,1787065,181103653.0
-76,42,2019,United States,Montana,208677.0,1068778,195248218.0
-77,43,2019,United States,Utah,754005.0,3205958,235188671.0
-78,44,2019,United States,Wyoming,158585.0,578759,274008698.0
-79,45,2019,United States,Alaska,221625.0,731545,302954705.0
-80,46,2019,United States,California,12549876.0,39512223,317620094.0
-81,47,2019,United States,Hawaii,389126.0,1415872,274831341.0
-82,48,2019,United States,Nevada,710459.0,3080156,230656824.0
-83,49,2019,United States,Oregon,1006418.0,4217737,238615637.0
-84,50,2019,United States,Washington,2398430.0,7614893,314965686.0
+,Administrative Division,Characteristic,Country,Economic Zone,Economic Zone #,GDP per Capita,Nominal GDP (Billion),Population,Region,Year
+0,Guangdong,"Export-oriented, digesting foreign advanced technology, high-end consumer goods, high-tech product manufacturing",China,Southeast Coast,4.0,13976.0,1561.0,111690000,East,2019
+1,Jiangsu,Multifunctional manufacturing: Light industrial equipment products,China,East Coast,3.0,17985.0,1444.0,80290000,East,2019
+2,Shandong,High-tech R & D and manufacturing,China,North Coast,2.0,10294.0,1030.0,100060000,East,2019
+3,Zhejiang,Multifunctional manufacturing: Light industrial equipment products,China,East Coast,3.0,15980.0,904.0,56570000,East,2019
+4,Henan,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry",China,Yellow River Upper and Middle Reaches,5.0,8233.0,787.0,95590000,Middle,2019
+5,Sichuan,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry",China,Yangtze River Upper and Middle Reaches,6.0,8143.0,676.0,83020000,West,2019
+6,Hubei,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry",China,Yangtze River Upper and Middle Reaches,6.0,11250.0,664.0,59020000,Middle,2019
+7,Fujian,"Export-oriented, digesting foreign advanced technology, high-end consumer goods, high-tech product manufacturing",China,Southeast Coast,4.0,15725.0,615.0,39110000,East,2019
+8,Hunan,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry",China,Yangtze River Upper and Middle Reaches,6.0,8397.0,576.0,68600000,Middle,2019
+9,Shanghai,Multifunctional manufacturing: Light industrial equipment products,China,East Coast,3.0,22870.0,553.0,24180000,East,2019
+10,Anhui,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry",China,Yangtze River Upper and Middle Reaches,6.0,8601.0,538.0,62550000,Middle,2019
+11,Beijing,High-tech R & D and manufacturing,China,North Coast,2.0,23630.0,513.0,21710000,East,2019
+12,Hebei,High-tech R & D and manufacturing,China,North Coast,2.0,6769.0,509.0,75200000,East,2019
+13,Shaanxi,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry",China,Yellow River Upper and Middle Reaches,5.0,9752.0,374.0,38350000,West,2019
+14,Liaoning,"Heavy industry, Energy raw materials, Agricultural products: Corn, soybeans and beets",China,Northeast Comprehensive,1.0,8263.0,361.0,43690000,Northeast Comprehensive,2019
+15,Jiangxi,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry",China,Yangtze River Upper and Middle Reaches,6.0,7767.0,359.0,46220000,Middle,2019
+16,Chongqing,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry",China,Yangtze River Upper and Middle Reaches,6.0,11122.0,342.0,30750000,West,2019
+17,Yunnan,"Chinese herbal medicine and biological products, tourism",China,Pearl River Upper Midstream,7.0,7019.0,337.0,48010000,West,2019
+18,Guangxi,"Chinese herbal medicine and biological products, tourism",China,Pearl River Upper Midstream,7.0,6305.0,308.0,48850000,West,2019
+19,Inner Mongolia,"Energy sources such as coal, natural gas and hydropower, natural grassland resources, sand industry",China,Inner Mongolia,8.0,9885.0,250.0,25290000,West,2019
+20,Shanxi,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry",China,Yellow River Upper and Middle Reaches,5.0,6708.0,247.0,36820000,Middle,2019
+21,Guizhou,"Chinese herbal medicine and biological products, tourism",China,Pearl River Upper Midstream,7.0,6835.0,243.0,35550000,West,2019
+22,Tianjin,High-tech R & D and manufacturing,China,North Coast,2.0,13102.0,204.0,15570000,East,2019
+23,Heilongjiang,"Heavy industry, Energy raw materials, Agricultural products: Corn, soybeans and beets",China,Northeast Comprehensive,1.0,5199.0,197.0,37890000,Northeast Comprehensive,2019
+24,Xinjiang,"Cotton, oasis agriculture, fruits, tomatoes, wine brewing, fruit processing industry and textile industry, oil and gas resources, sand industry base",China,Xinjiang,9.0,8057.0,197.0,24450000,West,2019
+25,Jilin,"Heavy industry, Energy raw materials, Agricultural products: Corn, soybeans and beets",China,Northeast Comprehensive,1.0,6257.0,170.0,27170000,Northeast Comprehensive,2019
+26,Gansu,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry",China,Yellow River Upper and Middle Reaches,5.0,4798.0,126.0,26260000,West,2019
+27,Hainan,"Export-oriented, digesting foreign advanced technology, high-end consumer goods, high-tech product manufacturing",China,Southeast Coast,4.0,8397.0,77.0,9170000,East,2019
+28,Ningxia,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry",China,Yellow River Upper and Middle Reaches,5.0,7918.0,54.0,6820000,West,2019
+29,Qinghai,"Natural gas, salt lake resources, non-ferrous metal mining and development, modern grassland animal husbandry, fence animal husbandry, and tourism with unique ethnic customs.",China,Qinghai-Tibet Plateau,10.0,7191.0,43.0,5980000,West,2019
+30,Tibet,"Natural gas, salt lake resources, non-ferrous metal mining and development, modern grassland animal husbandry, fence animal husbandry, and tourism with unique ethnic customs.",China,Qinghai-Tibet Plateau,10.0,7418.0,25.0,3370000,West,2019
+31,Hong Kong,"Trade and logistics industry (21.2%), financial services (19.7%), professional and industrial and commercial support services (12.0%), and tourism (4.5%)",China,Hong Kong,11.0,50848.0,372.989,7335384,Hong Kong,2019
+32,Macau,Tourism and apparel industry (41%),China,Macau,12.0,85495.0,55.136,644900,Macau,2019
+33,Taiwan,Agricultural products and OEM,China,Taiwan,13.0,24875.0,586.104,23562318,Taiwan,2019
+34,Connecticut,,United States,,,320468170.0,1142561.0,3565287,,2019
+35,Maine,,United States,,,200916225.0,270074.0,1344212,,2019
+36,Massachusetts,,United States,,,342792139.0,2382235.0,6949503,,2019
+37,New Hampshire,,United States,,,260628178.0,354379.0,1359711,,2019
+38,Rhode Island,,United States,,,239921991.0,254164.0,1059361,,2019
+39,Vermont,,United States,,,222984700.0,139140.0,623989,,2019
+40,Delaware,,United States,,,309788614.0,301661.0,973764,,2019
+41,District of Columbia,,United States,,,828592035.0,584778.0,705749,,2019
+42,Maryland,,United States,,,283401371.0,1713354.0,6045680,,2019
+43,New Jersey,,United States,,,290397526.0,2579366.0,8882190,,2019
+44,New York,,United States,,,356111768.0,6927642.0,19453561,,2019
+45,Pennsylvania,,United States,,,254183471.0,3254054.0,12801989,,2019
+46,Illinois,,United States,,,283187002.0,3588495.0,12671821,,2019
+47,Indiana,,United States,,,224059556.0,1508418.0,6732219,,2019
+48,Michigan,,United States,,,216905379.0,2166203.0,9986857,,2019
+49,Ohio,,United States,,,239011729.0,2793832.0,11689100,,2019
+50,Wisconsin,,United States,,,238598497.0,1389224.0,5822434,,2019
+51,Iowa,,United States,,,246952999.0,779154.0,3155070,,2019
+52,Kansas,,United States,,,237725491.0,692569.0,2913314,,2019
+53,Minnesota,,United States,,,270127554.0,1523420.0,5639632,,2019
+54,Missouri,,United States,,,216430726.0,1328328.0,6137428,,2019
+55,Nebraska,,United States,,,262688637.0,508147.0,1934408,,2019
+56,North Dakota,,United States,,,299379840.0,228146.0,762062,,2019
+57,South Dakota,,United States,,,241022812.0,213223.0,884659,,2019
+58,Alabama,,United States,,,188423035.0,923873.0,4903185,,2019
+59,Arkansas,,United States,,,176525478.0,532723.0,3017825,,2019
+60,Florida,,United States,,,203624944.0,4373403.0,21477737,,2019
+61,Georgia,,United States,,,232196928.0,2465333.0,10617423,,2019
+62,Kentucky,,United States,,,192199832.0,858686.0,4467673,,2019
+63,Louisiana,,United States,,,227032215.0,1055426.0,4648794,,2019
+64,Mississippi,,United States,,,159642209.0,475119.0,2976149,,2019
+65,North Carolina,,United States,,,224144276.0,2350844.0,10488084,,2019
+66,South Carolina,,United States,,,191355744.0,985236.0,5148714,,2019
+67,Tennessee,,United States,,,222524847.0,1520551.0,6833174,,2019
+68,Virginia,,United States,,,259720001.0,2216845.0,8535519,,2019
+69,West Virginia,,United States,,,174515818.0,312758.0,1792147,,2019
+70,Arizona,,United States,,,201238762.0,1464760.0,7278717,,2019
+71,New Mexico,,United States,,,198397199.0,416005.0,2096829,,2019
+72,Oklahoma,,United States,,,208298721.0,824232.0,3956971,,2019
+73,Texas,,United States,,,260306766.0,7547824.0,28995881,,2019
+74,Colorado,,United States,,,271090045.0,1561136.0,5758736,,2019
+75,Idaho,,United States,,,181103653.0,323644.0,1787065,,2019
+76,Montana,,United States,,,195248218.0,208677.0,1068778,,2019
+77,Utah,,United States,,,235188671.0,754005.0,3205958,,2019
+78,Wyoming,,United States,,,274008698.0,158585.0,578759,,2019
+79,Alaska,,United States,,,302954705.0,221625.0,731545,,2019
+80,California,,United States,,,317620094.0,12549876.0,39512223,,2019
+81,Hawaii,,United States,,,274831341.0,389126.0,1415872,,2019
+82,Nevada,,United States,,,230656824.0,710459.0,3080156,,2019
+83,Oregon,,United States,,,238615637.0,1006418.0,4217737,,2019
+84,Washington,,United States,,,314965686.0,2398430.0,7614893,,2019
