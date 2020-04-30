@@ -33,54 +33,54 @@
 31,Hong Kong,"Trade and logistics industry (21.2%), financial services (19.7%), professional and industrial and commercial support services (12.0%), and tourism (4.5%)",China,Hong Kong,11.0,50848.0,372.989,7335384,Hong Kong,2019
 32,Macau,Tourism and apparel industry (41%),China,Macau,12.0,85495.0,55.136,644900,Macau,2019
 33,Taiwan,Agricultural products and OEM,China,Taiwan,13.0,24875.0,586.104,23562318,Taiwan,2019
-34,Connecticut,,United States,,,320468.0,1142.56,3565287,,2019
-35,Maine,,United States,,,200913.0,270.07,1344212,,2019
-36,Massachusetts,,United States,,,342793.0,2382.24,6949503,,2019
-37,New Hampshire,,United States,,,260629.0,354.38,1359711,,2019
-38,Rhode Island,,United States,,,239918.0,254.16,1059361,,2019
-39,Vermont,,United States,,,222985.0,139.14,623989,,2019
-40,Delaware,,United States,,,309788.0,301.66,973764,,2019
-41,District of Columbia,,United States,,,828595.0,584.78,705749,,2019
-42,Maryland,,United States,,,283401.0,1713.35,6045680,,2019
-43,New Jersey,,United States,,,290398.0,2579.37,8882190,,2019
-44,New York,,United States,,,356112.0,6927.64,19453561,,2019
-45,Pennsylvania,,United States,,,254183.0,3254.05,12801989,,2019
-46,Illinois,,United States,,,283187.0,3588.5,12671821,,2019
-47,Indiana,,United States,,,224060.0,1508.42,6732219,,2019
-48,Michigan,,United States,,,216905.0,2166.2,9986857,,2019
-49,Ohio,,United States,,,239012.0,2793.83,11689100,,2019
-50,Wisconsin,,United States,,,238598.0,1389.22,5822434,,2019
-51,Iowa,,United States,,,246952.0,779.15,3155070,,2019
-52,Kansas,,United States,,,237726.0,692.57,2913314,,2019
-53,Minnesota,,United States,,,270128.0,1523.42,5639632,,2019
-54,Missouri,,United States,,,216431.0,1328.33,6137428,,2019
-55,Nebraska,,United States,,,262690.0,508.15,1934408,,2019
-56,North Dakota,,United States,,,299385.0,228.15,762062,,2019
-57,South Dakota,,United States,,,241019.0,213.22,884659,,2019
-58,Alabama,,United States,,,188422.0,923.87,4903185,,2019
-59,Arkansas,,United States,,,176524.0,532.72,3017825,,2019
-60,Florida,,United States,,,203625.0,4373.4,21477737,,2019
-61,Georgia,,United States,,,232197.0,2465.33,10617423,,2019
-62,Kentucky,,United States,,,192201.0,858.69,4467673,,2019
-63,Louisiana,,United States,,,227033.0,1055.43,4648794,,2019
-64,Mississippi,,United States,,,159643.0,475.12,2976149,,2019
-65,North Carolina,,United States,,,224144.0,2350.84,10488084,,2019
-66,South Carolina,,United States,,,191357.0,985.24,5148714,,2019
-67,Tennessee,,United States,,,222525.0,1520.55,6833174,,2019
-68,Virginia,,United States,,,259721.0,2216.85,8535519,,2019
-69,West Virginia,,United States,,,174517.0,312.76,1792147,,2019
-70,Arizona,,United States,,,201239.0,1464.76,7278717,,2019
-71,New Mexico,,United States,,,198400.0,416.01,2096829,,2019
-72,Oklahoma,,United States,,,208298.0,824.23,3956971,,2019
-73,Texas,,United States,,,260307.0,7547.82,28995881,,2019
-74,Colorado,,United States,,,271091.0,1561.14,5758736,,2019
-75,Idaho,,United States,,,181101.0,323.64,1787065,,2019
-76,Montana,,United States,,,195251.0,208.68,1068778,,2019
-77,Utah,,United States,,,235190.0,754.01,3205958,,2019
-78,Wyoming,,United States,,,274017.0,158.59,578759,,2019
-79,Alaska,,United States,,,302962.0,221.63,731545,,2019
-80,California,,United States,,,317620.0,12549.88,39512223,,2019
-81,Hawaii,,United States,,,274834.0,389.13,1415872,,2019
-82,Nevada,,United States,,,230657.0,710.46,3080156,,2019
-83,Oregon,,United States,,,238616.0,1006.42,4217737,,2019
-84,Washington,,United States,,,314966.0,2398.43,7614893,,2019
+34,Connecticut,,United States,,,81057.0,288.99,3565287,,2019
+35,Maine,,United States,,,50915.0,68.44,1344212,,2019
+36,Massachusetts,,United States,,,86943.0,604.21,6949503,,2019
+37,New Hampshire,,United States,,,66073.0,89.84,1359711,,2019
+38,Rhode Island,,United States,,,60829.0,64.44,1059361,,2019
+39,Vermont,,United States,,,56523.0,35.27,623989,,2019
+40,Delaware,,United States,,,78469.0,76.41,973764,,2019
+41,District of Columbia,,United States,,,210032.0,148.23,705749,,2019
+42,Maryland,,United States,,,71838.0,434.31,6045680,,2019
+43,New Jersey,,United States,,,73451.0,652.41,8882190,,2019
+44,New York,,United States,,,90044.0,1751.67,19453561,,2019
+45,Pennsylvania,,United States,,,64412.0,824.6,12801989,,2019
+46,Illinois,,United States,,,71727.0,908.91,12671821,,2019
+47,Indiana,,United States,,,56702.0,381.73,6732219,,2019
+48,Michigan,,United States,,,54929.0,548.57,9986857,,2019
+49,Ohio,,United States,,,60463.0,706.76,11689100,,2019
+50,Wisconsin,,United States,,,60442.0,351.92,5822434,,2019
+51,Iowa,,United States,,,62493.0,197.17,3155070,,2019
+52,Kansas,,United States,,,60309.0,175.7,2913314,,2019
+53,Minnesota,,United States,,,68428.0,385.91,5639632,,2019
+54,Missouri,,United States,,,54880.0,336.82,6137428,,2019
+55,Nebraska,,United States,,,66739.0,129.1,1934408,,2019
+56,North Dakota,,United States,,,75322.0,57.4,762062,,2019
+57,South Dakota,,United States,,,61108.0,54.06,884659,,2019
+58,Alabama,,United States,,,47734.0,234.05,4903185,,2019
+59,Arkansas,,United States,,,44810.0,135.23,3017825,,2019
+60,Florida,,United States,,,51746.0,1111.38,21477737,,2019
+61,Georgia,,United States,,,58897.0,625.33,10617423,,2019
+62,Kentucky,,United States,,,48696.0,217.56,4467673,,2019
+63,Louisiana,,United States,,,57445.0,267.05,4648794,,2019
+64,Mississippi,,United States,,,40465.0,120.43,2976149,,2019
+65,North Carolina,,United States,,,56863.0,596.38,10488084,,2019
+66,South Carolina,,United States,,,48548.0,249.96,5148714,,2019
+67,Tennessee,,United States,,,56451.0,385.74,6833174,,2019
+68,Virginia,,United States,,,65825.0,561.85,8535519,,2019
+69,West Virginia,,United States,,,43808.0,78.51,1792147,,2019
+70,Arizona,,United States,,,51179.0,372.52,7278717,,2019
+71,New Mexico,,United States,,,50200.0,105.26,2096829,,2019
+72,Oklahoma,,United States,,,52409.0,207.38,3956971,,2019
+73,Texas,,United States,,,66150.0,1918.07,28995881,,2019
+74,Colorado,,United States,,,68829.0,396.37,5758736,,2019
+75,Idaho,,United States,,,46036.0,82.27,1787065,,2019
+76,Montana,,United States,,,49543.0,52.95,1068778,,2019
+77,Utah,,United States,,,59892.0,192.01,3205958,,2019
+78,Wyoming,,United States,,,68751.0,39.79,578759,,2019
+79,Alaska,,United States,,,76222.0,55.76,731545,,2019
+80,California,,United States,,,80564.0,3183.25,39512223,,2019
+81,Hawaii,,United States,,,69597.0,98.54,1415872,,2019
+82,Nevada,,United States,,,58572.0,180.41,3080156,,2019
+83,Oregon,,United States,,,60559.0,255.42,4217737,,2019
+84,Washington,,United States,,,80171.0,610.49,7614893,,2019

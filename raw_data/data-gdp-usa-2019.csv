@@ -1,52 +1,52 @@
-﻿State,Nominal GDP (Billion)
-Connecticut,1142.56
-Maine ,270.07
-Massachusetts ,2382.24
-New Hampshire ,354.38
-Rhode Island ,254.16
-Vermont ,139.14
-Delaware ,301.66
-District of Columbia ,584.78
-Maryland ,1713.35
-New Jersey,2579.37
-New York,6927.64
-Pennsylvania ,3254.05
-Illinois ,3588.50
-Indiana,1508.42
-Michigan ,2166.20
-Ohio ,2793.83
-Wisconsin ,1389.22
-Iowa ,779.15
-Kansas,692.57
-Minnesota ,1523.42
-Missouri ,1328.33
-Nebraska,508.15
-North Dakota ,228.15
-South Dakota ,213.22
-Alabama ,923.87
-Arkansas,532.72
-Florida ,4373.40
-Georgia ,2465.33
-Kentucky,858.69
-Louisiana ,1055.43
-Mississippi ,475.12
-North Carolina ,2350.84
-South Carolina ,985.24
-Tennessee ,1520.55
-Virginia ,2216.85
-West Virginia ,312.76
-Arizona ,1464.76
-New Mexico,416.01
-Oklahoma,824.23
-Texas,7547.82
-Colorado ,1561.14
-Idaho ,323.64
-Montana ,208.68
-Utah ,754.01
-Wyoming ,158.59
-Alaska ,221.63
-California ,12549.88
-Hawaii ,389.13
-Nevada,710.46
-Oregon ,1006.42
-Washington,2398.43
+﻿State,Region,Nominal GDP (Billion)
+Connecticut,New England,288.99
+Maine ,New England,68.44
+Massachusetts ,New England,604.21
+New Hampshire ,New England,89.84
+Rhode Island ,New England,64.44
+Vermont ,New England,35.27
+Delaware ,Mideast,76.41
+District of Columbia ,Mideast,148.23
+Maryland ,Mideast,434.31
+New Jersey,Mideast,652.41
+New York,Mideast,1751.67
+Pennsylvania ,Mideast,824.60
+Illinois ,Great Lakes,908.91
+Indiana,Great Lakes,381.73
+Michigan ,Great Lakes,548.57
+Ohio ,Great Lakes,706.76
+Wisconsin ,Great Lakes,351.92
+Iowa ,Plains,197.17
+Kansas,Plains,175.70
+Minnesota ,Plains,385.91
+Missouri ,Plains,336.82
+Nebraska,Plains,129.10
+North Dakota ,Plains,57.40
+South Dakota ,Plains,54.06
+Alabama ,Southeast,234.05
+Arkansas,Southeast,135.23
+Florida ,Southeast,1111.38
+Georgia ,Southeast,625.33
+Kentucky,Southeast,217.56
+Louisiana ,Southeast,267.05
+Mississippi ,Southeast,120.43
+North Carolina ,Southeast,596.38
+South Carolina ,Southeast,249.96
+Tennessee ,Southeast,385.74
+Virginia ,Southeast,561.85
+West Virginia ,Southeast,78.51
+Arizona ,Southwest,372.52
+New Mexico,Southwest,105.26
+Oklahoma,Southwest,207.38
+Texas,Southwest,1918.07
+Colorado ,Rocky Mountain,396.37
+Idaho ,Rocky Mountain,82.27
+Montana ,Rocky Mountain,52.95
+Utah ,Rocky Mountain,192.01
+Wyoming ,Rocky Mountain,39.79
+Alaska ,Far West,55.76
+California ,Far West,3183.25
+Hawaii ,Far West,98.54
+Nevada,Far West,180.41
+Oregon ,Far West,255.42
+Washington,Far West,610.49
