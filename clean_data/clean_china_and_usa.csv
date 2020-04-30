@@ -1,86 +1,86 @@
 ,Administrative Division,Characteristic,Country,Economic Zone,Economic Zone #,GDP per Capita,Nominal GDP (Billion),Population,Region,Year
-0,Guangdong,"Export-oriented, digesting foreign advanced technology, high-end consumer goods, high-tech product manufacturing",China,Southeast Coast,4.0,13976.0,1561.0,111690000,East,2019
-1,Jiangsu,Multifunctional manufacturing: Light industrial equipment products,China,East Coast,3.0,17985.0,1444.0,80290000,East,2019
-2,Shandong,High-tech R & D and manufacturing,China,North Coast,2.0,10294.0,1030.0,100060000,East,2019
-3,Zhejiang,Multifunctional manufacturing: Light industrial equipment products,China,East Coast,3.0,15980.0,904.0,56570000,East,2019
-4,Henan,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry",China,Yellow River Upper and Middle Reaches,5.0,8233.0,787.0,95590000,Middle,2019
-5,Sichuan,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry",China,Yangtze River Upper and Middle Reaches,6.0,8143.0,676.0,83020000,West,2019
-6,Hubei,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry",China,Yangtze River Upper and Middle Reaches,6.0,11250.0,664.0,59020000,Middle,2019
-7,Fujian,"Export-oriented, digesting foreign advanced technology, high-end consumer goods, high-tech product manufacturing",China,Southeast Coast,4.0,15725.0,615.0,39110000,East,2019
-8,Hunan,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry",China,Yangtze River Upper and Middle Reaches,6.0,8397.0,576.0,68600000,Middle,2019
-9,Shanghai,Multifunctional manufacturing: Light industrial equipment products,China,East Coast,3.0,22870.0,553.0,24180000,East,2019
-10,Anhui,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry",China,Yangtze River Upper and Middle Reaches,6.0,8601.0,538.0,62550000,Middle,2019
-11,Beijing,High-tech R & D and manufacturing,China,North Coast,2.0,23630.0,513.0,21710000,East,2019
-12,Hebei,High-tech R & D and manufacturing,China,North Coast,2.0,6769.0,509.0,75200000,East,2019
-13,Shaanxi,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry",China,Yellow River Upper and Middle Reaches,5.0,9752.0,374.0,38350000,West,2019
-14,Liaoning,"Heavy industry, Energy raw materials, Agricultural products: Corn, soybeans and beets",China,Northeast Comprehensive,1.0,8263.0,361.0,43690000,Northeast Comprehensive,2019
-15,Jiangxi,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry",China,Yangtze River Upper and Middle Reaches,6.0,7767.0,359.0,46220000,Middle,2019
-16,Chongqing,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry",China,Yangtze River Upper and Middle Reaches,6.0,11122.0,342.0,30750000,West,2019
-17,Yunnan,"Chinese herbal medicine and biological products, tourism",China,Pearl River Upper Midstream,7.0,7019.0,337.0,48010000,West,2019
-18,Guangxi,"Chinese herbal medicine and biological products, tourism",China,Pearl River Upper Midstream,7.0,6305.0,308.0,48850000,West,2019
-19,Inner Mongolia,"Energy sources such as coal, natural gas and hydropower, natural grassland resources, sand industry",China,Inner Mongolia,8.0,9885.0,250.0,25290000,West,2019
-20,Shanxi,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry",China,Yellow River Upper and Middle Reaches,5.0,6708.0,247.0,36820000,Middle,2019
-21,Guizhou,"Chinese herbal medicine and biological products, tourism",China,Pearl River Upper Midstream,7.0,6835.0,243.0,35550000,West,2019
-22,Tianjin,High-tech R & D and manufacturing,China,North Coast,2.0,13102.0,204.0,15570000,East,2019
-23,Heilongjiang,"Heavy industry, Energy raw materials, Agricultural products: Corn, soybeans and beets",China,Northeast Comprehensive,1.0,5199.0,197.0,37890000,Northeast Comprehensive,2019
-24,Xinjiang,"Cotton, oasis agriculture, fruits, tomatoes, wine brewing, fruit processing industry and textile industry, oil and gas resources, sand industry base",China,Xinjiang,9.0,8057.0,197.0,24450000,West,2019
-25,Jilin,"Heavy industry, Energy raw materials, Agricultural products: Corn, soybeans and beets",China,Northeast Comprehensive,1.0,6257.0,170.0,27170000,Northeast Comprehensive,2019
-26,Gansu,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry",China,Yellow River Upper and Middle Reaches,5.0,4798.0,126.0,26260000,West,2019
-27,Hainan,"Export-oriented, digesting foreign advanced technology, high-end consumer goods, high-tech product manufacturing",China,Southeast Coast,4.0,8397.0,77.0,9170000,East,2019
-28,Ningxia,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry",China,Yellow River Upper and Middle Reaches,5.0,7918.0,54.0,6820000,West,2019
-29,Qinghai,"Natural gas, salt lake resources, non-ferrous metal mining and development, modern grassland animal husbandry, fence animal husbandry, and tourism with unique ethnic customs.",China,Qinghai-Tibet Plateau,10.0,7191.0,43.0,5980000,West,2019
-30,Tibet,"Natural gas, salt lake resources, non-ferrous metal mining and development, modern grassland animal husbandry, fence animal husbandry, and tourism with unique ethnic customs.",China,Qinghai-Tibet Plateau,10.0,7418.0,25.0,3370000,West,2019
-31,Hong Kong,"Trade and logistics industry (21.2%), financial services (19.7%), professional and industrial and commercial support services (12.0%), and tourism (4.5%)",China,Hong Kong,11.0,50848.0,372.989,7335384,Hong Kong,2019
-32,Macau,Tourism and apparel industry (41%),China,Macau,12.0,85495.0,55.136,644900,Macau,2019
-33,Taiwan,Agricultural products and OEM,China,Taiwan,13.0,24875.0,586.104,23562318,Taiwan,2019
-34,Connecticut,,United States,,,81057.0,288.99,3565287,,2019
-35,Maine,,United States,,,50915.0,68.44,1344212,,2019
-36,Massachusetts,,United States,,,86943.0,604.21,6949503,,2019
-37,New Hampshire,,United States,,,66073.0,89.84,1359711,,2019
-38,Rhode Island,,United States,,,60829.0,64.44,1059361,,2019
-39,Vermont,,United States,,,56523.0,35.27,623989,,2019
-40,Delaware,,United States,,,78469.0,76.41,973764,,2019
-41,District of Columbia,,United States,,,210032.0,148.23,705749,,2019
-42,Maryland,,United States,,,71838.0,434.31,6045680,,2019
-43,New Jersey,,United States,,,73451.0,652.41,8882190,,2019
-44,New York,,United States,,,90044.0,1751.67,19453561,,2019
-45,Pennsylvania,,United States,,,64412.0,824.6,12801989,,2019
-46,Illinois,,United States,,,71727.0,908.91,12671821,,2019
-47,Indiana,,United States,,,56702.0,381.73,6732219,,2019
-48,Michigan,,United States,,,54929.0,548.57,9986857,,2019
-49,Ohio,,United States,,,60463.0,706.76,11689100,,2019
-50,Wisconsin,,United States,,,60442.0,351.92,5822434,,2019
-51,Iowa,,United States,,,62493.0,197.17,3155070,,2019
-52,Kansas,,United States,,,60309.0,175.7,2913314,,2019
-53,Minnesota,,United States,,,68428.0,385.91,5639632,,2019
-54,Missouri,,United States,,,54880.0,336.82,6137428,,2019
-55,Nebraska,,United States,,,66739.0,129.1,1934408,,2019
-56,North Dakota,,United States,,,75322.0,57.4,762062,,2019
-57,South Dakota,,United States,,,61108.0,54.06,884659,,2019
-58,Alabama,,United States,,,47734.0,234.05,4903185,,2019
-59,Arkansas,,United States,,,44810.0,135.23,3017825,,2019
-60,Florida,,United States,,,51746.0,1111.38,21477737,,2019
-61,Georgia,,United States,,,58897.0,625.33,10617423,,2019
-62,Kentucky,,United States,,,48696.0,217.56,4467673,,2019
-63,Louisiana,,United States,,,57445.0,267.05,4648794,,2019
-64,Mississippi,,United States,,,40465.0,120.43,2976149,,2019
-65,North Carolina,,United States,,,56863.0,596.38,10488084,,2019
-66,South Carolina,,United States,,,48548.0,249.96,5148714,,2019
-67,Tennessee,,United States,,,56451.0,385.74,6833174,,2019
-68,Virginia,,United States,,,65825.0,561.85,8535519,,2019
-69,West Virginia,,United States,,,43808.0,78.51,1792147,,2019
-70,Arizona,,United States,,,51179.0,372.52,7278717,,2019
-71,New Mexico,,United States,,,50200.0,105.26,2096829,,2019
-72,Oklahoma,,United States,,,52409.0,207.38,3956971,,2019
-73,Texas,,United States,,,66150.0,1918.07,28995881,,2019
-74,Colorado,,United States,,,68829.0,396.37,5758736,,2019
-75,Idaho,,United States,,,46036.0,82.27,1787065,,2019
-76,Montana,,United States,,,49543.0,52.95,1068778,,2019
-77,Utah,,United States,,,59892.0,192.01,3205958,,2019
-78,Wyoming,,United States,,,68751.0,39.79,578759,,2019
-79,Alaska,,United States,,,76222.0,55.76,731545,,2019
-80,California,,United States,,,80564.0,3183.25,39512223,,2019
-81,Hawaii,,United States,,,69597.0,98.54,1415872,,2019
-82,Nevada,,United States,,,58572.0,180.41,3080156,,2019
-83,Oregon,,United States,,,60559.0,255.42,4217737,,2019
-84,Washington,,United States,,,80171.0,610.49,7614893,,2019
+0,Guangdong,"Export-oriented, digesting foreign advanced technology, high-end consumer goods, high-tech product manufacturing",China,Southeast Coast,4.0,13976.0,1561.0,111690000,East-CN,2019
+1,Jiangsu,Multifunctional manufacturing: Light industrial equipment products,China,East Coast,3.0,17985.0,1444.0,80290000,East-CN,2019
+2,Shandong,High-tech R & D and manufacturing,China,North Coast,2.0,10294.0,1030.0,100060000,East-CN,2019
+3,Zhejiang,Multifunctional manufacturing: Light industrial equipment products,China,East Coast,3.0,15980.0,904.0,56570000,East-CN,2019
+4,Henan,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry",China,Yellow River Upper and Middle Reaches,5.0,8233.0,787.0,95590000,Middle-CN,2019
+5,Sichuan,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry",China,Yangtze River Upper and Middle Reaches,6.0,8143.0,676.0,83020000,West-CN,2019
+6,Hubei,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry",China,Yangtze River Upper and Middle Reaches,6.0,11250.0,664.0,59020000,Middle-CN,2019
+7,Fujian,"Export-oriented, digesting foreign advanced technology, high-end consumer goods, high-tech product manufacturing",China,Southeast Coast,4.0,15725.0,615.0,39110000,East-CN,2019
+8,Hunan,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry",China,Yangtze River Upper and Middle Reaches,6.0,8397.0,576.0,68600000,Middle-CN,2019
+9,Shanghai,Multifunctional manufacturing: Light industrial equipment products,China,East Coast,3.0,22870.0,553.0,24180000,East-CN,2019
+10,Anhui,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry",China,Yangtze River Upper and Middle Reaches,6.0,8601.0,538.0,62550000,Middle-CN,2019
+11,Beijing,High-tech R & D and manufacturing,China,North Coast,2.0,23630.0,513.0,21710000,East-CN,2019
+12,Hebei,High-tech R & D and manufacturing,China,North Coast,2.0,6769.0,509.0,75200000,East-CN,2019
+13,Shaanxi,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry",China,Yellow River Upper and Middle Reaches,5.0,9752.0,374.0,38350000,West-CN,2019
+14,Liaoning,"Heavy industry, Energy raw materials, Agricultural products: Corn, soybeans and beets",China,Northeast Comprehensive,1.0,8263.0,361.0,43690000,Northeast Comprehensive-CN,2019
+15,Jiangxi,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry",China,Yangtze River Upper and Middle Reaches,6.0,7767.0,359.0,46220000,Middle-CN,2019
+16,Chongqing,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry",China,Yangtze River Upper and Middle Reaches,6.0,11122.0,342.0,30750000,West-CN,2019
+17,Yunnan,"Chinese herbal medicine and biological products, tourism",China,Pearl River Upper Midstream,7.0,7019.0,337.0,48010000,West-CN,2019
+18,Guangxi,"Chinese herbal medicine and biological products, tourism",China,Pearl River Upper Midstream,7.0,6305.0,308.0,48850000,West-CN,2019
+19,Inner Mongolia,"Energy sources such as coal, natural gas and hydropower, natural grassland resources, sand industry",China,Inner Mongolia,8.0,9885.0,250.0,25290000,West-CN,2019
+20,Shanxi,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry",China,Yellow River Upper and Middle Reaches,5.0,6708.0,247.0,36820000,Middle-CN,2019
+21,Guizhou,"Chinese herbal medicine and biological products, tourism",China,Pearl River Upper Midstream,7.0,6835.0,243.0,35550000,West-CN,2019
+22,Tianjin,High-tech R & D and manufacturing,China,North Coast,2.0,13102.0,204.0,15570000,East-CN,2019
+23,Heilongjiang,"Heavy industry, Energy raw materials, Agricultural products: Corn, soybeans and beets",China,Northeast Comprehensive,1.0,5199.0,197.0,37890000,Northeast Comprehensive-CN,2019
+24,Xinjiang,"Cotton, oasis agriculture, fruits, tomatoes, wine brewing, fruit processing industry and textile industry, oil and gas resources, sand industry base",China,Xinjiang,9.0,8057.0,197.0,24450000,West-CN,2019
+25,Jilin,"Heavy industry, Energy raw materials, Agricultural products: Corn, soybeans and beets",China,Northeast Comprehensive,1.0,6257.0,170.0,27170000,Northeast Comprehensive-CN,2019
+26,Gansu,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry",China,Yellow River Upper and Middle Reaches,5.0,4798.0,126.0,26260000,West-CN,2019
+27,Hainan,"Export-oriented, digesting foreign advanced technology, high-end consumer goods, high-tech product manufacturing",China,Southeast Coast,4.0,8397.0,77.0,9170000,East-CN,2019
+28,Ningxia,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry",China,Yellow River Upper and Middle Reaches,5.0,7918.0,54.0,6820000,West-CN,2019
+29,Qinghai,"Natural gas, salt lake resources, non-ferrous metal mining and development, modern grassland animal husbandry, fence animal husbandry, and tourism with unique ethnic customs.",China,Qinghai-Tibet Plateau,10.0,7191.0,43.0,5980000,West-CN,2019
+30,Tibet,"Natural gas, salt lake resources, non-ferrous metal mining and development, modern grassland animal husbandry, fence animal husbandry, and tourism with unique ethnic customs.",China,Qinghai-Tibet Plateau,10.0,7418.0,25.0,3370000,West-CN,2019
+31,Hong Kong,"Trade and logistics industry (21.2%), financial services (19.7%), professional and industrial and commercial support services (12.0%), and tourism (4.5%)",China,Hong Kong,11.0,50848.0,372.989,7335384,Hong Kong-CN,2019
+32,Macau,Tourism and apparel industry (41%),China,Macau,12.0,85495.0,55.136,644900,Macau-CN,2019
+33,Taiwan,Agricultural products and OEM,China,Taiwan,13.0,24875.0,586.104,23562318,Taiwan-CN,2019
+34,Connecticut,,United States,,,81057.0,288.99,3565287,New England-US,2019
+35,Maine,,United States,,,50915.0,68.44,1344212,New England-US,2019
+36,Massachusetts,,United States,,,86943.0,604.21,6949503,New England-US,2019
+37,New Hampshire,,United States,,,66073.0,89.84,1359711,New England-US,2019
+38,Rhode Island,,United States,,,60829.0,64.44,1059361,New England-US,2019
+39,Vermont,,United States,,,56523.0,35.27,623989,New England-US,2019
+40,Delaware,,United States,,,78469.0,76.41,973764,Mideast-US,2019
+41,District of Columbia,,United States,,,210032.0,148.23,705749,Mideast-US,2019
+42,Maryland,,United States,,,71838.0,434.31,6045680,Mideast-US,2019
+43,New Jersey,,United States,,,73451.0,652.41,8882190,Mideast-US,2019
+44,New York,,United States,,,90044.0,1751.67,19453561,Mideast-US,2019
+45,Pennsylvania,,United States,,,64412.0,824.6,12801989,Mideast-US,2019
+46,Illinois,,United States,,,71727.0,908.91,12671821,Great Lakes-US,2019
+47,Indiana,,United States,,,56702.0,381.73,6732219,Great Lakes-US,2019
+48,Michigan,,United States,,,54929.0,548.57,9986857,Great Lakes-US,2019
+49,Ohio,,United States,,,60463.0,706.76,11689100,Great Lakes-US,2019
+50,Wisconsin,,United States,,,60442.0,351.92,5822434,Great Lakes-US,2019
+51,Iowa,,United States,,,62493.0,197.17,3155070,Plains-US,2019
+52,Kansas,,United States,,,60309.0,175.7,2913314,Plains-US,2019
+53,Minnesota,,United States,,,68428.0,385.91,5639632,Plains-US,2019
+54,Missouri,,United States,,,54880.0,336.82,6137428,Plains-US,2019
+55,Nebraska,,United States,,,66739.0,129.1,1934408,Plains-US,2019
+56,North Dakota,,United States,,,75322.0,57.4,762062,Plains-US,2019
+57,South Dakota,,United States,,,61108.0,54.06,884659,Plains-US,2019
+58,Alabama,,United States,,,47734.0,234.05,4903185,Southeast-US,2019
+59,Arkansas,,United States,,,44810.0,135.23,3017825,Southeast-US,2019
+60,Florida,,United States,,,51746.0,1111.38,21477737,Southeast-US,2019
+61,Georgia,,United States,,,58897.0,625.33,10617423,Southeast-US,2019
+62,Kentucky,,United States,,,48696.0,217.56,4467673,Southeast-US,2019
+63,Louisiana,,United States,,,57445.0,267.05,4648794,Southeast-US,2019
+64,Mississippi,,United States,,,40465.0,120.43,2976149,Southeast-US,2019
+65,North Carolina,,United States,,,56863.0,596.38,10488084,Southeast-US,2019
+66,South Carolina,,United States,,,48548.0,249.96,5148714,Southeast-US,2019
+67,Tennessee,,United States,,,56451.0,385.74,6833174,Southeast-US,2019
+68,Virginia,,United States,,,65825.0,561.85,8535519,Southeast-US,2019
+69,West Virginia,,United States,,,43808.0,78.51,1792147,Southeast-US,2019
+70,Arizona,,United States,,,51179.0,372.52,7278717,Southwest-US,2019
+71,New Mexico,,United States,,,50200.0,105.26,2096829,Southwest-US,2019
+72,Oklahoma,,United States,,,52409.0,207.38,3956971,Southwest-US,2019
+73,Texas,,United States,,,66150.0,1918.07,28995881,Southwest-US,2019
+74,Colorado,,United States,,,68829.0,396.37,5758736,Rocky Mountain-US,2019
+75,Idaho,,United States,,,46036.0,82.27,1787065,Rocky Mountain-US,2019
+76,Montana,,United States,,,49543.0,52.95,1068778,Rocky Mountain-US,2019
+77,Utah,,United States,,,59892.0,192.01,3205958,Rocky Mountain-US,2019
+78,Wyoming,,United States,,,68751.0,39.79,578759,Rocky Mountain-US,2019
+79,Alaska,,United States,,,76222.0,55.76,731545,Far West-US,2019
+80,California,,United States,,,80564.0,3183.25,39512223,Far West-US,2019
+81,Hawaii,,United States,,,69597.0,98.54,1415872,Far West-US,2019
+82,Nevada,,United States,,,58572.0,180.41,3080156,Far West-US,2019
+83,Oregon,,United States,,,60559.0,255.42,4217737,Far West-US,2019
+84,Washington,,United States,,,80171.0,610.49,7614893,Far West-US,2019
