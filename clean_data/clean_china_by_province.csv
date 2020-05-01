@@ -1,0 +1,35 @@
+,Year,Country,Region,Economic Zone #,Economic Zone,Administrative Division,Nominal GDP (Billion),Population,GDP per Capita,Characteristic
+0,2019,China,East-CN,4,Southeast Coast,Guangdong,1561.0,111690000,13976.0,"Export-oriented, digesting foreign advanced technology, high-end consumer goods, high-tech product manufacturing"
+1,2019,China,East-CN,3,East Coast,Jiangsu,1444.0,80290000,17985.0,Multifunctional manufacturing: Light industrial equipment products
+2,2019,China,East-CN,2,North Coast,Shandong,1030.0,100060000,10294.0,High-tech R & D and manufacturing
+3,2019,China,East-CN,3,East Coast,Zhejiang,904.0,56570000,15980.0,Multifunctional manufacturing: Light industrial equipment products
+4,2019,China,Middle-CN,5,Yellow River Upper and Middle Reaches,Henan,787.0,95590000,8233.0,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry"
+5,2019,China,West-CN,6,Yangtze River Upper and Middle Reaches,Sichuan,676.0,83020000,8143.0,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry"
+6,2019,China,Middle-CN,6,Yangtze River Upper and Middle Reaches,Hubei,664.0,59020000,11250.0,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry"
+7,2019,China,East-CN,4,Southeast Coast,Fujian,615.0,39110000,15725.0,"Export-oriented, digesting foreign advanced technology, high-end consumer goods, high-tech product manufacturing"
+8,2019,China,Middle-CN,6,Yangtze River Upper and Middle Reaches,Hunan,576.0,68600000,8397.0,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry"
+9,2019,China,East-CN,3,East Coast,Shanghai,553.0,24180000,22870.0,Multifunctional manufacturing: Light industrial equipment products
+10,2019,China,Middle-CN,6,Yangtze River Upper and Middle Reaches,Anhui,538.0,62550000,8601.0,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry"
+11,2019,China,East-CN,2,North Coast,Beijing,513.0,21710000,23630.0,High-tech R & D and manufacturing
+12,2019,China,East-CN,2,North Coast,Hebei,509.0,75200000,6769.0,High-tech R & D and manufacturing
+13,2019,China,West-CN,5,Yellow River Upper and Middle Reaches,Shaanxi,374.0,38350000,9752.0,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry"
+14,2019,China,Northeast Comprehensive-CN,1,Northeast Comprehensive,Liaoning,361.0,43690000,8263.0,"Heavy industry, Energy raw materials, Agricultural products: Corn, soybeans and beets"
+15,2019,China,Middle-CN,6,Yangtze River Upper and Middle Reaches,Jiangxi,359.0,46220000,7767.0,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry"
+16,2019,China,West-CN,6,Yangtze River Upper and Middle Reaches,Chongqing,342.0,30750000,11122.0,"Rice and cotton, steel and non-ferrous metallurgy, automobile industrial base (Wuhan) and other transportation equipment industrial base (Chongqing motorcycle manufacturing), Chongqing-centered heavy chemical industry and Chengdu-centered light textile industry"
+17,2019,China,West-CN,7,Pearl River Upper Midstream,Yunnan,337.0,48010000,7019.0,"Chinese herbal medicine and biological products, tourism"
+18,2019,China,West-CN,7,Pearl River Upper Midstream,Guangxi,308.0,48850000,6305.0,"Chinese herbal medicine and biological products, tourism"
+19,2019,China,West-CN,8,Inner Mongolia,Inner Mongolia,250.0,25290000,9885.0,"Energy sources such as coal, natural gas and hydropower, natural grassland resources, sand industry"
+20,2019,China,Middle-CN,5,Yellow River Upper and Middle Reaches,Shanxi,247.0,36820000,6708.0,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry"
+21,2019,China,West-CN,7,Pearl River Upper Midstream,Guizhou,243.0,35550000,6835.0,"Chinese herbal medicine and biological products, tourism"
+22,2019,China,East-CN,2,North Coast,Tianjin,204.0,15570000,13102.0,High-tech R & D and manufacturing
+23,2019,China,Northeast Comprehensive-CN,1,Northeast Comprehensive,Heilongjiang,197.0,37890000,5199.0,"Heavy industry, Energy raw materials, Agricultural products: Corn, soybeans and beets"
+24,2019,China,West-CN,9,Xinjiang,Xinjiang,197.0,24450000,8057.0,"Cotton, oasis agriculture, fruits, tomatoes, wine brewing, fruit processing industry and textile industry, oil and gas resources, sand industry base"
+25,2019,China,Northeast Comprehensive-CN,1,Northeast Comprehensive,Jilin,170.0,27170000,6257.0,"Heavy industry, Energy raw materials, Agricultural products: Corn, soybeans and beets"
+26,2019,China,West-CN,5,Yellow River Upper and Middle Reaches,Gansu,126.0,26260000,4798.0,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry"
+27,2019,China,East-CN,4,Southeast Coast,Hainan,77.0,9170000,8397.0,"Export-oriented, digesting foreign advanced technology, high-end consumer goods, high-tech product manufacturing"
+28,2019,China,West-CN,5,Yellow River Upper and Middle Reaches,Ningxia,54.0,6820000,7918.0,"Coal mining and coal deep processing, natural gas and hydropower development, steel industry, non-ferrous industry"
+29,2019,China,West-CN,10,Qinghai-Tibet Plateau,Qinghai,43.0,5980000,7191.0,"Natural gas, salt lake resources, non-ferrous metal mining and development, modern grassland animal husbandry, fence animal husbandry, and tourism with unique ethnic customs."
+30,2019,China,West-CN,10,Qinghai-Tibet Plateau,Tibet,25.0,3370000,7418.0,"Natural gas, salt lake resources, non-ferrous metal mining and development, modern grassland animal husbandry, fence animal husbandry, and tourism with unique ethnic customs."
+31,2019,China,Hong Kong-CN,11,Hong Kong,Hong Kong,372.99,7335384,50848.0,"Trade and logistics industry (21.2%), financial services (19.7%), professional and industrial and commercial support services (12.0%), and tourism (4.5%)"
+32,2019,China,Macau-CN,12,Macau,Macau,55.14,644900,85502.0,Tourism and apparel industry (41%)
+33,2019,China,Taiwan-CN,13,Taiwan,Taiwan,586.1,23562318,24874.0,Agricultural products and OEM
