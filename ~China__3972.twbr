@@ -278,7 +278,7 @@
       <column caption='Index' datatype='integer' hidden='true' name='[index]' role='measure' type='quantitative' />
       <column-instance column='[Calculation_98234812515692547]' derivation='None' name='[none:Calculation_98234812515692547:nk]' pivot='key' type='nominal' />
       <column-instance column='[Region]' derivation='None' name='[none:Region:nk]' pivot='key' type='nominal' />
-      <layout dim-ordering='alphabetic' dim-percentage='0.597727' measure-ordering='alphabetic' measure-percentage='0.402273' show-structure='true' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.595455' measure-ordering='alphabetic' measure-percentage='0.404545' show-structure='true' />
       <style>
         <style-rule element='mark'>
           <encoding attr='color' field='[none:Region:nk]' type='palette'>
@@ -583,7 +583,7 @@
         <calculation class='tableau' formula='1' />
       </column>
       <column datatype='integer' name='[Year]' role='dimension' type='quantitative' />
-      <layout dim-ordering='alphabetic' dim-percentage='0.379545' measure-ordering='alphabetic' measure-percentage='0.620455' show-structure='true' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.381818' measure-ordering='alphabetic' measure-percentage='0.618182' show-structure='true' />
       <semantic-values>
         <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
       </semantic-values>
@@ -615,7 +615,7 @@
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
             <attributes>
-              <attribute datatype='string' name='character-set'>&quot;ibm-5348_P100-1997&quot;</attribute>
+              <attribute datatype='string' name='character-set'>&quot;windows-1252&quot;</attribute>
               <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
               <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
               <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
@@ -919,6 +919,69 @@
       </table>
       <simple-id uuid='{07E97A05-8355-48A3-A0AA-DEED8935C5C8}' />
     </worksheet>
+    <worksheet name='East Asia-GDP per Capita'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='clean_world' name='federated.1bnpnby09on3sb1h61fye1xc6kzv' />
+          </datasources>
+          <mapsources>
+            <mapsource name='Tableau' />
+          </mapsources>
+          <datasource-dependencies datasource='federated.1bnpnby09on3sb1h61fye1xc6kzv'>
+            <column caption='Continent Name' datatype='string' name='[Continent_Name]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+            <column datatype='real' default-format='c&quot;$&quot;#,##0;(&quot;$&quot;#,##0)' name='[GDP per Capita]' role='measure' type='quantitative' />
+            <column-instance column='[Continent_Name]' derivation='None' name='[none:Continent_Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Country]' derivation='None' name='[none:Country:nk]' pivot='key' type='nominal' />
+            <column-instance column='[GDP per Capita]' derivation='Sum' name='[sum:GDP per Capita:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[none:Continent_Name:nk]'>
+            <groupfilter function='member' level='[none:Continent_Name:nk]' member='&quot;Asia&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1bnpnby09on3sb1h61fye1xc6kzv].[none:Continent_Name:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='map'>
+            <format attr='washout' value='0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[sum:GDP per Capita:qk]' />
+              <text column='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[none:Country:nk]' />
+              <text column='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[sum:GDP per Capita:qk]' />
+              <lod column='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[none:Country:nk]' />
+              <geometry column='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[Geometry (generated)]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run fontname='Arial Narrow' fontsize='8'>&lt;[federated.1bnpnby09on3sb1h61fye1xc6kzv].[none:Country:nk]&gt;</run>
+                <run>Æ&#10;</run>
+                <run fontname='Arial Narrow' fontsize='8'>&lt;[federated.1bnpnby09on3sb1h61fye1xc6kzv].[sum:GDP per Capita:qk]&gt;</run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1bnpnby09on3sb1h61fye1xc6kzv].[Latitude (generated)]</rows>
+        <cols>[federated.1bnpnby09on3sb1h61fye1xc6kzv].[Longitude (generated)]</cols>
+      </table>
+      <simple-id uuid='{38D5EDC7-0B59-4200-8964-51F782F4BB54}' />
+    </worksheet>
     <worksheet name='Europe-GDP per Capita'>
       <table>
         <view>
@@ -966,8 +1029,8 @@
         </view>
         <style>
           <style-rule element='axis'>
-            <encoding attr='space' class='0' field='[federated.1b3ajif0eofpql18e72ax1gkk893].[Longitude (generated)]' field-type='quantitative' max='7309835.1265250929' min='-1855112.6442215' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
-            <encoding attr='space' class='0' field='[federated.1b3ajif0eofpql18e72ax1gkk893].[Latitude (generated)]' field-type='quantitative' max='9666936.832173055' min='3543803.547921014' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+            <encoding attr='space' class='0' field='[federated.1b3ajif0eofpql18e72ax1gkk893].[Longitude (generated)]' field-type='quantitative' max='8027041.5199735677' min='-2130058.6310631121' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.1b3ajif0eofpql18e72ax1gkk893].[Latitude (generated)]' field-type='quantitative' max='8196857.4797433838' min='4267548.1783266878' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
           </style-rule>
           <style-rule element='mark'>
             <encoding attr='color' field='[federated.1b3ajif0eofpql18e72ax1gkk893].[sum:GDP per Capita:qk]' num-steps='15' palette='sunrise_sunset_diverging_10_0' type='interpolated' />
@@ -2214,8 +2277,8 @@
         </view>
         <style>
           <style-rule element='axis'>
-            <encoding attr='space' class='0' field='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[Longitude (generated)]' field-type='quantitative' max='23855068.669591755' min='11179666.310377542' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
-            <encoding attr='space' class='0' field='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[Latitude (generated)]' field-type='quantitative' max='1234935.4318886753' min='-6079600.049495738' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+            <encoding attr='space' class='0' field='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[Longitude (generated)]' field-type='quantitative' max='27150607.030921008' min='8051849.7972007003' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[Latitude (generated)]' field-type='quantitative' max='1261032.8960835617' min='-6127387.3545818944' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
           </style-rule>
           <style-rule element='mark'>
             <encoding attr='color' field='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[sum:GDP per Capita:qk]' num-steps='7' palette='sunrise_sunset_diverging_10_0' type='interpolated' />
@@ -2270,6 +2333,13 @@
               <lod column='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[none:Country:nk]' />
               <geometry column='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[Geometry (generated)]' />
             </encodings>
+            <customized-label>
+              <formatted-text>
+                <run fontname='Arial Narrow' fontsize='8'>&lt;[federated.1bnpnby09on3sb1h61fye1xc6kzv].[none:Country:nk]&gt;</run>
+                <run>Æ&#10;</run>
+                <run fontname='Arial Narrow' fontsize='8'>&lt;[federated.1bnpnby09on3sb1h61fye1xc6kzv].[sum:GDP per Capita:qk]&gt;</run>
+              </formatted-text>
+            </customized-label>
             <style>
               <style-rule element='mark'>
                 <format attr='mark-labels-show' value='true' />
@@ -2287,7 +2357,7 @@
   <dashboards>
     <dashboard name='World Overview'>
       <style />
-      <size maxheight='1800' maxwidth='1090' minheight='1800' minwidth='1090' sizing-mode='fixed' />
+      <size maxheight='2100' maxwidth='1090' minheight='2100' minwidth='1090' sizing-mode='fixed' />
       <datasources>
         <datasource caption='clean_europe' name='federated.1b3ajif0eofpql18e72ax1gkk893' />
         <datasource caption='clean_china_and_usa' name='federated.1z0ywgv0qm6peh11mhz5s09xd1b9' />
@@ -2308,9 +2378,9 @@
       </datasource-dependencies>
       <zones>
         <zone h='100000' id='12' type='layout-basic' w='100000' x='0' y='0'>
-          <zone h='95334' id='37' param='horz' type='layout-flow' w='98532' x='734' y='4222'>
-            <zone h='95334' id='35' type='layout-basic' w='98532' x='734' y='4222'>
-              <zone h='31611' id='34' name='Mainland China-GDP per Capita' show-title='false' w='85958' x='734' y='4222'>
+          <zone h='95468' id='37' param='horz' type='layout-flow' w='98532' x='734' y='4151'>
+            <zone h='95468' id='35' type='layout-basic' w='98532' x='734' y='4151'>
+              <zone h='31644' id='34' name='Mainland China-GDP per Capita' show-title='false' w='85958' x='734' y='4151'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -2318,7 +2388,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='28778' id='90' name='MainlandUS-GDP per Capita' show-title='false' w='85958' x='734' y='35833'>
+              <zone h='28815' id='90' name='MainlandUS-GDP per Capita' show-title='false' w='85958' x='734' y='35795'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -2326,7 +2396,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='34945' id='128' name='Europe-GDP per Capita' show-title='false' w='85958' x='734' y='64611'>
+              <zone h='17501' id='128' name='Europe-GDP per Capita' show-title='false' w='85958' x='734' y='64610'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -2334,7 +2404,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone fixed-size='55' h='31778' id='17' is-fixed='true' mode='checkdropdown' name='Mainland China-GDP per Capita' param='[federated.1z0ywgv0qm6peh11mhz5s09xd1b9].[none:Economic Zone:nk]' type='filter' w='12574' x='86692' y='4222'>
+              <zone fixed-size='55' h='31813' id='17' is-fixed='true' mode='checkdropdown' name='Mainland China-GDP per Capita' param='[federated.1z0ywgv0qm6peh11mhz5s09xd1b9].[none:Economic Zone:nk]' type='filter' w='12574' x='86692' y='4151'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -2342,7 +2412,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone fixed-size='58' h='28611' id='16' is-fixed='true' mode='checkdropdown' name='Mainland China-GDP per Capita' param='[federated.1z0ywgv0qm6peh11mhz5s09xd1b9].[none:Region:nk]' type='filter' w='12574' x='86692' y='36000'>
+              <zone fixed-size='58' h='28646' id='16' is-fixed='true' mode='checkdropdown' name='Mainland China-GDP per Capita' param='[federated.1z0ywgv0qm6peh11mhz5s09xd1b9].[none:Region:nk]' type='filter' w='12574' x='86692' y='35964'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -2350,7 +2420,15 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='34945' id='129' mode='checkdropdown' name='Europe-GDP per Capita' param='[federated.1b3ajif0eofpql18e72ax1gkk893].[none:Country:nk]' type='filter' w='12574' x='86692' y='64611'>
+              <zone h='35009' id='129' mode='checkdropdown' name='Europe-GDP per Capita' param='[federated.1b3ajif0eofpql18e72ax1gkk893].[none:Country:nk]' type='filter' w='12574' x='86692' y='64610'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='17508' id='148' name='Ociania-GDP per Capita' show-title='false' w='85958' x='734' y='82111'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -2360,7 +2438,7 @@
               </zone>
             </zone>
           </zone>
-          <zone fixed-size='91' h='3778' id='18' is-fixed='true' name='Mainland China-GDP per Capita' param='[federated.1z0ywgv0qm6peh11mhz5s09xd1b9].[none:Nominal GDP (Billion):qk]' show-domain='false' show-null-ctrls='false' type='filter' values='relevant' w='49215' x='734' y='444'>
+          <zone fixed-size='91' h='3770' id='18' is-fixed='true' name='Mainland China-GDP per Capita' param='[federated.1z0ywgv0qm6peh11mhz5s09xd1b9].[none:Nominal GDP (Billion):qk]' show-domain='false' show-null-ctrls='false' type='filter' values='relevant' w='49215' x='734' y='381'>
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -2368,7 +2446,7 @@
               <format attr='margin' value='4' />
             </zone-style>
           </zone>
-          <zone fixed-size='25' h='3778' id='19' is-fixed='true' name='Mainland China-GDP per Capita' param='[federated.1z0ywgv0qm6peh11mhz5s09xd1b9].[none:Population:qk]' show-domain='false' show-null-ctrls='false' type='filter' values='relevant' w='49317' x='49949' y='444'>
+          <zone fixed-size='25' h='3770' id='19' is-fixed='true' name='Mainland China-GDP per Capita' param='[federated.1z0ywgv0qm6peh11mhz5s09xd1b9].[none:Population:qk]' show-domain='false' show-null-ctrls='false' type='filter' values='relevant' w='49317' x='49949' y='381'>
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -2389,11 +2467,11 @@
       </zones>
       <devicelayouts>
         <devicelayout auto-generated='true' name='Phone'>
-          <size maxheight='1750' minheight='1750' sizing-mode='vscroll' />
+          <size maxheight='2100' minheight='2100' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='141' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='99112' id='140' param='vert' type='layout-flow' w='98532' x='734' y='444'>
-                <zone fixed-size='55' h='31778' id='17' mode='checkdropdown' name='Mainland China-GDP per Capita' param='[federated.1z0ywgv0qm6peh11mhz5s09xd1b9].[none:Economic Zone:nk]' type='filter' w='12574' x='86692' y='4222'>
+            <zone h='100000' id='154' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='99238' id='153' param='vert' type='layout-flow' w='98532' x='734' y='381'>
+                <zone fixed-size='55' h='31813' id='17' mode='checkdropdown' name='Mainland China-GDP per Capita' param='[federated.1z0ywgv0qm6peh11mhz5s09xd1b9].[none:Economic Zone:nk]' type='filter' w='12574' x='86692' y='4151'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -2402,7 +2480,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='58' h='28611' id='16' mode='checkdropdown' name='Mainland China-GDP per Capita' param='[federated.1z0ywgv0qm6peh11mhz5s09xd1b9].[none:Region:nk]' type='filter' w='12574' x='86692' y='36000'>
+                <zone fixed-size='58' h='28646' id='16' mode='checkdropdown' name='Mainland China-GDP per Capita' param='[federated.1z0ywgv0qm6peh11mhz5s09xd1b9].[none:Region:nk]' type='filter' w='12574' x='86692' y='35964'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -2411,7 +2489,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='91' h='3778' id='18' name='Mainland China-GDP per Capita' param='[federated.1z0ywgv0qm6peh11mhz5s09xd1b9].[none:Nominal GDP (Billion):qk]' show-domain='false' show-null-ctrls='false' type='filter' values='relevant' w='49215' x='734' y='444'>
+                <zone fixed-size='91' h='3770' id='18' name='Mainland China-GDP per Capita' param='[federated.1z0ywgv0qm6peh11mhz5s09xd1b9].[none:Nominal GDP (Billion):qk]' show-domain='false' show-null-ctrls='false' type='filter' values='relevant' w='49215' x='734' y='381'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -2420,7 +2498,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='25' h='3778' id='19' name='Mainland China-GDP per Capita' param='[federated.1z0ywgv0qm6peh11mhz5s09xd1b9].[none:Population:qk]' show-domain='false' show-null-ctrls='false' type='filter' values='relevant' w='49317' x='49949' y='444'>
+                <zone fixed-size='25' h='3770' id='19' name='Mainland China-GDP per Capita' param='[federated.1z0ywgv0qm6peh11mhz5s09xd1b9].[none:Population:qk]' show-domain='false' show-null-ctrls='false' type='filter' values='relevant' w='49317' x='49949' y='381'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -2429,7 +2507,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='31611' id='34' is-fixed='true' name='Mainland China-GDP per Capita' show-title='false' w='85958' x='734' y='4222'>
+                <zone fixed-size='280' h='31644' id='34' is-fixed='true' name='Mainland China-GDP per Capita' show-title='false' w='85958' x='734' y='4151'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -2438,7 +2516,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='279' h='15500' id='53' is-fixed='true' name='HongKongMacau-GDP per Capita' show-title='false' w='28210' x='58166' y='20056'>
+                <zone fixed-size='280' h='15500' id='53' is-fixed='true' name='HongKongMacau-GDP per Capita' show-title='false' w='28210' x='58166' y='20056'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -2447,7 +2525,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='28778' id='90' is-fixed='true' name='MainlandUS-GDP per Capita' show-title='false' w='85958' x='734' y='35833'>
+                <zone fixed-size='280' h='28815' id='90' is-fixed='true' name='MainlandUS-GDP per Capita' show-title='false' w='85958' x='734' y='35795'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -2456,7 +2534,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='118' h='6556' id='95' is-fixed='true' name='Alaska-GDP per Capita' show-title='false' w='13974' x='1223' y='36111'>
+                <zone fixed-size='138' h='6556' id='95' is-fixed='true' name='Alaska-GDP per Capita' show-title='false' w='13974' x='1223' y='36111'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -2465,7 +2543,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='126' h='7000' id='96' is-fixed='true' name='Hawai-GDP per Capita' show-title='false' w='15371' x='1135' y='57333'>
+                <zone fixed-size='147' h='7000' id='96' is-fixed='true' name='Hawai-GDP per Capita' show-title='false' w='15371' x='1135' y='57333'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -2474,7 +2552,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='34945' id='129' mode='checkdropdown' name='Europe-GDP per Capita' param='[federated.1b3ajif0eofpql18e72ax1gkk893].[none:Country:nk]' type='filter' w='12574' x='86692' y='64611'>
+                <zone h='35009' id='129' mode='checkdropdown' name='Europe-GDP per Capita' param='[federated.1b3ajif0eofpql18e72ax1gkk893].[none:Country:nk]' type='filter' w='12574' x='86692' y='64610'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -2483,7 +2561,16 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='34945' id='128' is-fixed='true' name='Europe-GDP per Capita' show-title='false' w='85958' x='734' y='64611'>
+                <zone fixed-size='280' h='17501' id='128' is-fixed='true' name='Europe-GDP per Capita' show-title='false' w='85958' x='734' y='64610'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='17508' id='148' is-fixed='true' name='Ociania-GDP per Capita' show-title='false' w='85958' x='734' y='82111'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -2704,7 +2791,58 @@
       </cards>
       <simple-id uuid='{B0E18B33-ECD1-4124-9B46-826466A49796}' />
     </window>
-    <window class='dashboard' maximized='true' name='World Overview'>
+    <window class='worksheet' name='Ociania-GDP per Capita'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <default-map-tool-selection tool='1' />
+      </viewpoint>
+      <simple-id uuid='{A1DFF4BB-1FC3-4734-9149-3DB7B48E724B}' />
+    </window>
+    <window class='worksheet' maximized='true' name='East Asia-GDP per Capita'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[sum:GDP per Capita:qk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{D898C83D-B80E-48DC-9EB1-70B5F68A6D24}' />
+    </window>
+    <window class='dashboard' name='World Overview'>
       <viewpoints>
         <viewpoint name='Alaska-GDP per Capita'>
           <zoom type='entire-view' />
@@ -2734,40 +2872,13 @@
           <floating-toolbar-visibility value='2' />
           <default-map-tool-selection tool='1' />
         </viewpoint>
+        <viewpoint name='Ociania-GDP per Capita'>
+          <zoom type='entire-view' />
+          <default-map-tool-selection tool='1' />
+        </viewpoint>
       </viewpoints>
-      <active id='129' />
+      <active id='148' />
       <simple-id uuid='{4F64A023-3AA0-44A3-B949-918982DC3A6D}' />
-    </window>
-    <window class='worksheet' name='Ociania-GDP per Capita'>
-      <cards>
-        <edge name='left'>
-          <strip size='160'>
-            <card type='pages' />
-            <card type='filters' />
-            <card type='marks' />
-          </strip>
-        </edge>
-        <edge name='top'>
-          <strip size='2147483647'>
-            <card type='columns' />
-          </strip>
-          <strip size='2147483647'>
-            <card type='rows' />
-          </strip>
-          <strip size='31'>
-            <card type='title' />
-          </strip>
-        </edge>
-        <edge name='right'>
-          <strip size='160'>
-            <card pane-specification-id='0' param='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[sum:GDP per Capita:qk]' type='color' />
-          </strip>
-        </edge>
-      </cards>
-      <viewpoint>
-        <default-map-tool-selection tool='1' />
-      </viewpoint>
-      <simple-id uuid='{A1DFF4BB-1FC3-4734-9149-3DB7B48E724B}' />
     </window>
   </windows>
 </workbook>
