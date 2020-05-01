@@ -939,12 +939,26 @@
           <filter class='categorical' column='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[none:Continent_Name:nk]'>
             <groupfilter function='member' level='[none:Continent_Name:nk]' member='&quot;Asia&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
+          <filter class='categorical' column='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[none:Country:nk]'>
+            <groupfilter function='union' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:Country:nk]' member='&quot;Japan&quot;' />
+              <groupfilter function='member' level='[none:Country:nk]' member='&quot;South Korea&quot;' />
+            </groupfilter>
+          </filter>
           <slices>
             <column>[federated.1bnpnby09on3sb1h61fye1xc6kzv].[none:Continent_Name:nk]</column>
+            <column>[federated.1bnpnby09on3sb1h61fye1xc6kzv].[none:Country:nk]</column>
           </slices>
           <aggregation value='true' />
         </view>
         <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[Longitude (generated)]' field-type='quantitative' max='17261357.147698734' min='11218518.620392811' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[Latitude (generated)]' field-type='quantitative' max='5578445.2595521733' min='2091332.538106692' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+          </style-rule>
+          <style-rule element='mark'>
+            <encoding attr='color' field='[federated.1bnpnby09on3sb1h61fye1xc6kzv].[sum:GDP per Capita:qk]' palette='sunrise_sunset_diverging_10_0' type='interpolated' />
+          </style-rule>
           <style-rule element='map'>
             <format attr='washout' value='0.0' />
           </style-rule>
