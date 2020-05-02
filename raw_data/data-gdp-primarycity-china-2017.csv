@@ -1,0 +1,67 @@
+﻿cities,provinces,GDP (USD) M,GDPpc
+Shanghai[2],Shanghai,453701,18756
+Beijing[2],Beijing,414926,19105
+Shenzhen[3],Guangdong,341679,32091
+Hong Kong[4],Hong Kong,333097,37180
+Guangzhou[4],Guangdong,318480,22317
+Chongqing[2],Chongqing,287697,9396
+Tianjin[2],Tianjin,274730,17617
+Suzhou[5],Jiangsu,256517,24051
+Chengdu[6],Sichuan,205714,12872
+Wuhan[7],Hubei,198619,23540
+Hangzhou[8],Zhejiang,186667,20011
+Nanjing[5],Jiangsu,173511,20899
+Qingdao[9],Shandong,163277,17657
+Wuxi[5],Jiangsu,155689,23802
+Changsha[10],Hunan,151221,19433
+Ningbo[8],Zhejiang,145769,18359
+Foshan[4],Guangdong,139200,18413
+Zhengzhou[11],Henan,136168,13891
+Nantong[5],Jiangsu,114557,15685
+Dongguan[4],Guangdong,112297,13527
+Quanzhou[12],Fujian,111790,12976
+Xi'an[13],Shaanxi,110665,11607
+Yantai[9],Shandong,108764,15369
+Jinan[9],Shandong,105922,14555
+Fuzhou[12],Fujian,104943,13781
+Hefei[14],Anhui,103721,13101
+Dalian[15],Liaoning,103525,14816
+Changzhou[5],Jiangsu,98025,20800
+Xuzhou[5],Jiangsu,97840,11199
+Tangshan[16],Hebei,96716,12289
+Changchun[17],Jilin,96197,12806
+Harbin[18],Heilongjiang,92674,8471
+Weifang[9],Shandong,86717,9265
+Shenyang[15],Liaoning,85676,10331
+Shijiazhuang[16],Hebei,81252,7968
+Wenzhou[8],Zhejiang,80150,8717
+Yancheng[5],Jiangsu,75279,10400
+Shaoxing[8],Zhejiang,75215,15046
+Yangzhou[5],Jiangsu,75016,16671
+Nanchang[19],Jiangxi,74102,13678
+Kunming[20],Yunnan,71946,10650
+Zibo[9],Shandong,70668,15043
+"Taizhou, Jiangsu[5]",Jiangsu,70271,15116
+Jining[9],Shandong,68675,8210
+"Taizhou, Zhejiang[8]",Zhejiang,64993,10656
+Jiaxing[8],Zhejiang,64879,13998
+Xiamen[12],Fujian,64453,16255
+Linyi[9],Shandong,64133,6106
+Luoyang[11],Henan,63541,9328
+Nanning[21],Guangxi,61003,8583
+Xiangyang[7],Hubei,60205,10151
+Zhenjiang[5],Jiangsu,59397,18656
+Yichang[7],Hubei,57128,14526
+Jinhua[8],Zhejiang,57001,10285
+Huizhou[4],Guangdong,56734,11879
+Dongying[9],Shandong,56494,26358
+Baotou[22],Inner mongolia,55586,19384
+Cangzhou[16],Hebei,53962,7166
+Erdos[22],Inner mongolia,53020,25713
+Tai'an[9],Shandong,52999,9395
+Guiyang[23],Guizhou,52400,11033
+Zhangzhou[12],Fujian,52261,10298
+Weihai[9],Shandong,52029,18434
+Zhongshan[4],Guangdong,50806,15657
+Taiyuan,Shanxi,50093,11484
+Handan[16],Hebei,50053,5268
